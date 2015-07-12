@@ -1,5 +1,3 @@
-#!/bin/sh somehitng else
- 
 ssh app@APP.SERVER.IP.ADDRESS <<EOF
   cd ~/hello-jenkins
   git pull
